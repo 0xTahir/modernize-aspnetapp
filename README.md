@@ -1,3 +1,7 @@
-# Sample Apps
-This repository contains sample applications for cloud migration demos:
-1. <strong>WebApp_ASPNET20</strong> - This is a sample ASP.NET 2.0 Web App.
+# Modernize existing ASP.NET 2.0 application with Containers
+
+## Note: 
+In this post I am using <b>Visual Studio 2017</b> and <b>Dockers</b> to be installed on <b>Windows 10 Enterprise</b>.
+
+1. Make sure the dockers is running and then <b>Switch to Windows containers</b>.
+
