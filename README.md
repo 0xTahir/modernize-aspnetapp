@@ -24,6 +24,22 @@ ARG source
 WORKDIR /inetpub/wwwroot
 COPY ${source:-obj/Docker/publish} .
 ```
+
+<b>Explaination of the Dockerfile: </b>
+```
+# Indicates that the aspnet image will be used as the base image.
+FROM microsoft/aspnet
+
+# Definining variable "source"
+ARG source
+
+# Working directory for running instances of the container image
+WORKDIR /inetpub/wwwroot
+
+# Copy the files and directories to the filesystem of the container
+COPY ${source:-obj/Docker/publish} .
+```
+
 6. Run the application with <b>Docker</b> option selected in Visual Studio. 
 <img src="https://github.com/AlgoNinja/modernize-aspnetapp/blob/master/images/05.png" />
 
