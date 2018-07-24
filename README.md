@@ -25,7 +25,7 @@ WORKDIR /inetpub/wwwroot
 COPY ${source:-obj/Docker/publish} .
 ```
 
-<b>Explaination of the Dockerfile: </b>
+<b>Explanation of the Dockerfile: </b>
 ```
 # Indicates that the aspnet image will be used as the base image.
 FROM microsoft/aspnet
