@@ -29,3 +29,11 @@ COPY ${source:-obj/Docker/publish} .
 
 7. The legacy ASP.NET 2.0 Web App has been moderanized and is running inside the container (observe the ip address instead of the http://localhost).
 <img src="https://github.com/AlgoNinja/modernize-aspnetapp/blob/master/images/06.png" />
+
+8. You can see the container image which contains ASP.NET application by running the following command:
+```
+docker images
+```
+<img src="https://github.com/AlgoNinja/modernize-aspnetapp/blob/master/images/07.png" />
+
+This container now can be moved to any cloud. 
