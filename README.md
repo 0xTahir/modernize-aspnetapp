@@ -27,5 +27,5 @@ COPY ${source:-obj/Docker/publish} .
 6. Run the application with <b>Docker</b> option selected in Visual Studio. 
 <img src="https://github.com/AlgoNinja/modernize-aspnetapp/blob/master/images/05.png" />
 
-7. The legacy ASP.NET 2.0 Web App has been moderanized and is running inside the container (not on the local host).
+7. The legacy ASP.NET 2.0 Web App has been moderanized and is running inside the container (observe the ip address instead of the http://localhost).
 <img src="https://github.com/AlgoNinja/modernize-aspnetapp/blob/master/images/06.png" />
