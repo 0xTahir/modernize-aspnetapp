@@ -36,4 +36,4 @@ docker images
 ```
 <img src="https://github.com/AlgoNinja/modernize-aspnetapp/blob/master/images/07.png" />
 
-This container now can be moved to any cloud. 
+Thats it :o). This container now can be moved to any cloud. 
