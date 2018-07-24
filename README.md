@@ -37,3 +37,5 @@ docker images
 <img src="https://github.com/AlgoNinja/modernize-aspnetapp/blob/master/images/07.png" />
 
 Thats it :o). This container now can be moved to any cloud. 
+
+<b>Note:<b> Here are the step to move the local container images to Azure: [https://docs.microsoft.com/en-us/azure/container-registry/container-registry-get-started-portal]
