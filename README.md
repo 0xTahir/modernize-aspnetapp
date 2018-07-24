@@ -1,4 +1,4 @@
-# Modernizing legacy ASP.NET app with Containers
+# Modernizing Legacy ASP.NET App with Containers
 
 In this post I am going to modernize a legacy ASP.NET 2.0 web application using <b>Visual Studio 2017</b> and <b>Dockers</b> on <b>Windows 10 Enterprise</b>. 
 
