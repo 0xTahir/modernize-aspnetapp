@@ -1,6 +1,6 @@
 # Modernizing Legacy ASP.NET App with Containers
 
-In this post I am going to modernize a legacy ASP.NET 2.0 web application using <b>Visual Studio 2017</b> and <b>Dockers</b> on <b>Windows 10 Enterprise</b>. App moderinization to containers dont need any code change at all. A complex app might require some configuration change when going on to multiple containers. Benefit of running an application inside a container is isolation and portability. Once an application is inside a container it can be moved to any platform on-prem or on cloud which supports Containers. 
+In this post I am going to modernize a legacy ASP.NET 2.0 web application using <b>Visual Studio 2017</b> and <b>Dockers</b> on <b>Windows 10 Enterprise</b>. App moderinization to containers dont require any code change at all. A complex app might require some configuration change when going on to multiple containers. Benefit of running an application inside a container is isolation and portability. Once an application is inside a container it can be moved to any platform on-prem or on cloud which supports Containers. 
 
 1. Make sure the Dockers is running and then <b>Switch to Windows containers</b>.
 <img src="https://github.com/AlgoNinja/modernize-aspnetapp/blob/master/images/01.png" />
