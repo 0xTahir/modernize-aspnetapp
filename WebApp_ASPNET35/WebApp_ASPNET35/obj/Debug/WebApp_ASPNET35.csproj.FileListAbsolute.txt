@@ -1,0 +1,6 @@
+c:\users\batman\documents\visual studio 2017\Projects\WebApp_ASPNET35\WebApp_ASPNET35\bin\WebApp_ASPNET35.dll.config
+c:\users\batman\documents\visual studio 2017\Projects\WebApp_ASPNET35\WebApp_ASPNET35\bin\WebApp_ASPNET35.dll
+c:\users\batman\documents\visual studio 2017\Projects\WebApp_ASPNET35\WebApp_ASPNET35\bin\WebApp_ASPNET35.pdb
+c:\users\batman\documents\visual studio 2017\Projects\WebApp_ASPNET35\WebApp_ASPNET35\obj\Debug\WebApp_ASPNET35.csprojResolveAssemblyReference.cache
+c:\users\batman\documents\visual studio 2017\Projects\WebApp_ASPNET35\WebApp_ASPNET35\obj\Debug\WebApp_ASPNET35.dll
+c:\users\batman\documents\visual studio 2017\Projects\WebApp_ASPNET35\WebApp_ASPNET35\obj\Debug\WebApp_ASPNET35.pdb
