@@ -1,7 +1,0 @@
-C:\Users\Batman\source\repos\WebApp_ASPNET35\WebApp_ASPNET35\bin\WebApp_ASPNET35.dll.config
-C:\Users\Batman\source\repos\WebApp_ASPNET35\WebApp_ASPNET35\bin\WebApp_ASPNET35.dll
-C:\Users\Batman\source\repos\WebApp_ASPNET35\WebApp_ASPNET35\bin\WebApp_ASPNET35.pdb
-C:\Users\Batman\source\repos\WebApp_ASPNET35\WebApp_ASPNET35\obj\Debug\WebApp_ASPNET35.csprojAssemblyReference.cache
-C:\Users\Batman\source\repos\WebApp_ASPNET35\WebApp_ASPNET35\obj\Debug\WebApp_ASPNET35.csproj.CoreCompileInputs.cache
-C:\Users\Batman\source\repos\WebApp_ASPNET35\WebApp_ASPNET35\obj\Debug\WebApp_ASPNET35.dll
-C:\Users\Batman\source\repos\WebApp_ASPNET35\WebApp_ASPNET35\obj\Debug\WebApp_ASPNET35.pdb
